@@ -2236,8 +2236,8 @@
 		},
 		{
 			"type": "rectangle",
-			"version": 1762,
-			"versionNonce": 2052963703,
+			"version": 1763,
+			"versionNonce": 1243911690,
 			"isDeleted": false,
 			"id": "mfsdHeH7_aaqJ30ZI3VBZ",
 			"fillStyle": "solid",
@@ -2246,7 +2246,7 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1304.0821892165757,
+			"x": 1303.1644313357885,
 			"y": 641.232280801095,
 			"strokeColor": "#000",
 			"backgroundColor": "#be4bdb",
@@ -2261,7 +2261,7 @@
 					"id": "NngjIfr6"
 				}
 			],
-			"updated": 1768664841804,
+			"updated": 1768740186477,
 			"link": null,
 			"locked": false,
 			"index": "ar",
@@ -2273,8 +2273,8 @@
 		},
 		{
 			"type": "text",
-			"version": 1838,
-			"versionNonce": 1200408022,
+			"version": 1840,
+			"versionNonce": 349313610,
 			"isDeleted": false,
 			"id": "NngjIfr6",
 			"fillStyle": "solid",
@@ -2283,7 +2283,7 @@
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1330.1588333116906,
+			"x": 1329.2410754309035,
 			"y": 676.3707046860023,
 			"strokeColor": "#000",
 			"backgroundColor": "#fab005",
@@ -2293,8 +2293,7 @@
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1768734672678,
-			"link": null,
+			"updated": 1768740186756,
 			"locked": false,
 			"fontSize": 16.44876999520984,
 			"fontFamily": 1,
@@ -2309,7 +2308,7 @@
 			"autoResize": true,
 			"lineHeight": 1.33748602518041,
 			"hasTextLink": false,
-			"rawText": ""
+			"rawText": "Coolify"
 		},
 		{
 			"type": "rectangle",
@@ -2539,7 +2538,8 @@
 			"autoResize": true,
 			"lineHeight": 1.33748602518041,
 			"hasTextLink": false,
-			"rawText": "Nextcloud\n"
+			"rawText": "Nextcloud\n",
+			"link": null
 		},
 		{
 			"type": "rectangle",
@@ -2944,10 +2944,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 81.29759646933644,
-		"scrollY": 4.968040537285901,
+		"scrollX": 34.26996425173866,
+		"scrollY": 188.51922343815085,
 		"zoom": {
-			"value": 1.08962
+			"value": 1.089612
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
