@@ -1,0 +1,1 @@
+![[Unbenannt-2026-01-17-1703.excalidraw]]
