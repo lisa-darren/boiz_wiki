@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Obsidian Workspace (Personal Layouts)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# (Optional) Uncomment below if members want different plugins
+# .obsidian/plugins/
+
+# (Optional) Uncomment below if members want different themes
+# .obsidian/themes/
+
+# Cache
+.obsidian/cache
